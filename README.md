@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 This repository documents my personal learning journey during Week 1 to 5 of the program.
 
-A Primer Course on Data Science & Machine Learning
+Summer Analytics'25 is a Primer Course on Data Science & Machine Learning
 Conducted by the Consulting & Analytics Club, IIT Guwahati
 
 📘 About the Program
