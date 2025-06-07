@@ -17,3 +17,11 @@ Introduction to Python and Python Libraries
 ∙Pandas
 ∙Data Analysis and Visualisation using Matplotlib and Sebon
 
+#Week 2:
+ML Algorithms
+∙Handling Missing Values
+∙Types of Machine Learning
+∙Linear Regression
+∙Logistic Regression
+∙Cost Function
+∙Gradient Ascent
