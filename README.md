@@ -13,28 +13,18 @@ This edition covers Python, Machine Learning algorithms, model tuning, tree-base
 #Week 1: 
 
 Introduction to Python and Python Libraries
-
 ∙Basics of Python
-
 ∙NumPy
-
 ∙Pandas
-
 ∙Data Analysis and Visualisation using Matplotlib and Sebon
 
 
 #Week 2:
 
 ML Algorithms
-
 ∙Handling Missing Values
-
 ∙Types of Machine Learning
-
 ∙Linear Regression
-
 ∙Logistic Regression
-
 ∙Cost Function
-
 ∙Gradient Ascent
