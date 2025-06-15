@@ -28,3 +28,13 @@ ML Algorithms
 ∙Logistic Regression
 ∙Cost Function
 ∙Gradient Ascent
+
+Week 3
+
+Model Tuning
+∙Generalisation
+∙Overfitting and Underfitting
+∙Support Vector Machines
+∙The Confusion Matrix
+∙Evaluation Metrics
+
