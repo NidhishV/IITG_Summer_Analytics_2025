@@ -11,16 +11,13 @@ Summer Analytics 2025 is a 5-week online course (plus 1 project week) designed t
 This edition covers Python, Machine Learning algorithms, model tuning, tree-based methods, neural networks, and includes hackathons and webinars led by industry experts.
 
 #Week 1: 
-
 Introduction to Python and Python Libraries
 * Basics of Python
 * NumPy
 * Pandas
 * Data Analysis and Visualisation using Matplotlib and Sebon
 
-
 #Week 2:
-
 ML Algorithms
 * Handling Missing Values
 * Types of Machine Learning
@@ -30,7 +27,6 @@ ML Algorithms
 * Gradient Ascent
 
 #Week 3:
-
 Model Tuning
 * Generalisation
 * Overfitting and Underfitting
@@ -39,7 +35,6 @@ Model Tuning
 * Evaluation Metrics
 
 #Week 4:
-
 Tree-based Algorithms
 * Tree Based Models
 * Gradient Boosting
