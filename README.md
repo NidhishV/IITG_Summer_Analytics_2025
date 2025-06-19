@@ -22,19 +22,26 @@ Introduction to Python and Python Libraries
 #Week 2:
 
 ML Algorithms
-∙Handling Missing Values
-∙Types of Machine Learning
-∙Linear Regression
-∙Logistic Regression
-∙Cost Function
-∙Gradient Ascent
+* Handling Missing Values
+* Types of Machine Learning
+* Linear Regression
+* Logistic Regression
+* Cost Function
+* Gradient Ascent
 
 #Week 3:
 
 Model Tuning
-∙Generalisation
-∙Overfitting and Underfitting
-∙Support Vector Machines
-∙The Confusion Matrix
-∙Evaluation Metrics
+* Generalisation
+* Overfitting and Underfitting
+* Support Vector Machines
+* The Confusion Matrix
+* Evaluation Metrics
 
+#Week 4:
+
+Tree-based Algorithms
+* Tree Based Models
+* Gradient Boosting
+* Feature Selection & Engineering
+* Hyperparameter Tuning
