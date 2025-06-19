@@ -13,10 +13,10 @@ This edition covers Python, Machine Learning algorithms, model tuning, tree-base
 #Week 1: 
 
 Introduction to Python and Python Libraries
-∙Basics of Python
-∙NumPy
-∙Pandas
-∙Data Analysis and Visualisation using Matplotlib and Sebon
+* Basics of Python
+* NumPy
+* Pandas
+* Data Analysis and Visualisation using Matplotlib and Sebon
 
 
 #Week 2:
