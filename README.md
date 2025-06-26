@@ -40,3 +40,10 @@ Tree-based Algorithms
 * Gradient Boosting
 * Feature Selection & Engineering
 * Hyperparameter Tuning
+
+#Week 5:
+Neural Networks
+* Introduction to Deep Learning
+* Unsupervised Learning
+* Dimensionality Reduction
+* K Means Clustering
