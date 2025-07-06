@@ -1,4 +1,4 @@
-Dynamic Parking Pricing System
+### Dynamic Parking Pricing System
 Project Overview
 This project implements a dynamic pricing system for urban parking lots using real-time data analysis and advanced pricing models. The system is designed to optimize parking revenue, improve utilization, and provide actionable analytics for operators. It features interactive dashboards and is ready for deployment in Jupyter notebooks or cloud environments.
 Key Features
