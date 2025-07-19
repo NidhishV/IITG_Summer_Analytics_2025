@@ -33,9 +33,3 @@ Classify land cover types (Water, Impervious, Farm, Forest, Grass, Orchard) usin
 ## 📌 Notes
 - Only Logistic Regression was allowed.
 - The public test set includes noise; private test set is clean for final evaluation.
-
-## 🏆 Outcome
-- All participants receive GFG discounts.
-- Top performers win GFG Premium memberships.
-
----
