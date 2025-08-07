@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 This repository documents my personal learning journey during Week 1 to 5 of the program.
 
-![Alt Text]([https://github.com/NidhishV/IITG_Summer_Analytics_2025/blob/main/Sa%20cert.jpg](https://drive.google.com/file/d/1jj3vUJnosxV_XlyKumW6CQc0ss-xJYpP/view?usp=drive_link))
+![Alt Text]([[https://github.com/NidhishV/IITG_Summer_Analytics_2025/blob/main/Sa%20cert.jpg](https://drive.google.com/file/d/1jj3vUJnosxV_XlyKumW6CQc0ss-xJYpP/view?usp=drive_link)](https://github.com/NidhishV/IITG_Summer_Analytics_2025/blob/main/certificate.jpg))
 
 Summer Analytics'25 is a Primer Course on Data Science & Machine Learning
 Conducted by the Consulting & Analytics Club, IIT Guwahati
