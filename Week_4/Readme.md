@@ -2,7 +2,7 @@
 
 This project involves building a classification model to predict whether an individual is a Senior (65+) or an Adult (under 65) based on a subset of health, lifestyle, and lab test features from the NHANES dataset (National Health and Nutrition Examination Survey), provided for the Summer Analytics 2025 Hackathon in collaboration with the Consulting and Analytics Club, IIT Guwahati.
 
-⸻
+---
 
 Objective
 
